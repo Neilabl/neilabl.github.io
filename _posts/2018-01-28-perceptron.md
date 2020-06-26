@@ -1,7 +1,7 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Teaching"
+date: 2020-09-01
+tags: [web,programming,microservice]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
