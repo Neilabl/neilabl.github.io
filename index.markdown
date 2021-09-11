@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Electronic materials, lecture resources and updates regarding the `2021/2022 Service Oriented Computing (SOC)` course at [Enicarthage](http://www.enicarthage.rnu.tn/) will be listed here : 
