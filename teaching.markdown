@@ -51,7 +51,7 @@ Sept, 2018-2019
 
 Sept, 2020-2021
 
--Service oriented computing : SOA/MSA.
+- Service oriented computing : SOA/MSA.
 
 
 Previous lectures notes are available on this [repository.](https://github.com/neilabenlakhal/neilabenlakhal.github.io/tree/master/Old_Stuff/2018-2019Lecture/)
