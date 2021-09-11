@@ -21,15 +21,6 @@
 title: Dr. Neila BEN LAKHAL
 email: neila@de.cs.titech.ac.jp Neila.benlakhal@enicarthage.rnu.tn
 description: >- # this means to ignore newlines until "baseurl:"
- Dr. Neila BEN LAKHAL
-Assistant Professor
-t: +974 5566 4714
-m: +216 21 444 660
-e: neila.benlakhal@gmail.com 
-e: neila@de.cs.titech.ac.jp
-PhD from Tokyo Institute of Technology 東京工業大学 
-[National School of Engineering of Carthage]
-Computer Engineering Dep.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NeilaLakhal
