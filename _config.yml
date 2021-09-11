@@ -18,12 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Neila BEN LAKHAL
+title: Dr. Neila BEN LAKHAL
 email: neila@de.cs.titech.ac.jp Neila.benlakhal@enicarthage.rnu.tn
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ 
+Dr. Neila BEN LAKHAL
+Assistant Professor
+t: +974 5566 4714
+m: +216 21 444 660
+e: neila.benlakhal@gmail.com 
+e: neila@de.cs.titech.ac.jp
+PhD from Tokyo Institute of Technology 東京工業大学 
+[National School of Engineering of Carthage]
+Computer Engineering Dep.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NeilaLakhal
