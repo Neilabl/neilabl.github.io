@@ -38,5 +38,4 @@ B.sc., Computer Science Applied to Management [ISG@Tunis](http://www.isg.rnu.tn/
 
 With more than a decade in universities, willing to be an active member in leading campus services and activities, contribute to its focus on engineering education and give back as a mentor to the next generation.
 
----
 

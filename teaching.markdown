@@ -10,8 +10,7 @@ Sept, 2021-2022
 
 - Service oriented computing : SOA/MSA.
 
-
-## Courses I have taught
+## Previous Courses
 
 Sept, 2009-2010
 
@@ -54,5 +53,5 @@ Sept, 2020-2021
 
 -Service oriented computing : SOA/MSA.
 
----
+
 Previous lectures notes are available on this [repository.](https://github.com/neilabenlakhal/neilabenlakhal.github.io/tree/master/Old_Stuff/2018-2019Lecture/)
