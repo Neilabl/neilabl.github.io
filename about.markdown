@@ -10,7 +10,7 @@ Neila Ben Lakhal is an Associate Professor in the Department of Computer Enginee
 
 Neila received a B.sc. in Computer Science Applied to Management in 2000 from [ISG@Tunis](http://www.isg.rnu.tn/), in Tunis before moving to Japan where she completed a M.E. in Computer Science [@Tokyo Institute of Technology, JAPAN](https://www.titech.ac.jp/english/) in 2004 and a Ph.D. in Computer Science in 2007 from [@Tokyo Institute of Technology, JAPAN](https://www.titech.ac.jp/english/);  her PhD advisor was [Haruo Yokota](http://yokota-www.cs.titech.ac.jp/~yokota/). Neila was a research assistant at [Japan Science and Technology Agency](https://www.jst.go.jp/EN/) and a Head of Departement then a Dean associate at [Time University](https://www.linkedin.com/school/time-universit%C3%A9/) from 2011 to 2016.
 
-## Education
+### Education
 
 Ph.D. in Computer Science [@Tokyo Institute of Technology, JAPAN](https://www.titech.ac.jp/english/)
 
@@ -18,7 +18,7 @@ M.E. in Computer Science [@Tokyo Institute of Technology, JAPAN](https://www.tit
 
 B.sc., Computer Science Applied to Management [ISG@Tunis](http://www.isg.rnu.tn/)
 
-## Field of expertise - Interest : 
+### Field of expertise and research interest : 
 
 * Microservices, MSA, Docker, RESTFUL - SOAP Web services, service composition, cloud, Mobile Web Apps and Web programming.
 
@@ -32,7 +32,7 @@ B.sc., Computer Science Applied to Management [ISG@Tunis](http://www.isg.rnu.tn/
 
 * Academic plan preparation and update.
 
-## Career goal :
+## Career goal
 
 With more than a decade in universities, willing to be an active member in leading campus services and activities, contribute to its focus on engineering education and give back as a mentor to the next generation.
 
