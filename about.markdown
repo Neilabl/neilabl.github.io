@@ -18,7 +18,7 @@ M.E. in Computer Science [@Tokyo Institute of Technology, JAPAN](https://www.tit
 
 B.sc., Computer Science Applied to Management [ISG@Tunis](http://www.isg.rnu.tn/)
 
-### Field of expertise and research interest : 
+### Field of expertise and research interest 
 
 * Microservices, MSA, Docker, RESTFUL - SOAP Web services, service composition, cloud, Mobile Web Apps and Web programming.
 
@@ -32,7 +32,7 @@ B.sc., Computer Science Applied to Management [ISG@Tunis](http://www.isg.rnu.tn/
 
 * Academic plan preparation and update.
 
-## Career goal
+### Career goal
 
 With more than a decade in universities, willing to be an active member in leading campus services and activities, contribute to its focus on engineering education and give back as a mentor to the next generation.
 
