@@ -27,7 +27,7 @@ Objective : Get familiarized with XML, XSD (Review)
    * **Chap 1.** Web services basics
    * **Chap 3.** Brief overview of XML
   
-1. From [Web Services, Service-Oriented Architectures, and Cloud Computing 2nd Edition 2013](https://github.com/neilabenlakhal/neilabenlakhal.github.io/blob/master/2020-2021Lecture/2020-2021Lecture/SOC/Chapter_2/ToRead/Web%20Services,%20Service-Oriented%20Architectures,%20and%20Cloud%20Computing.pdf)
+2. From [Web Services, Service-Oriented Architectures, and Cloud Computing 2nd Edition 2013](https://github.com/neilabenlakhal/neilabenlakhal.github.io/blob/master/2020-2021Lecture/SOC/Chapter_2/ToRead/Web%20Services,%20Service-Oriented%20Architectures,%20and%20Cloud%20Computing.pdf)
    * **Chap 3.** Web Services and Service-Oriented Architectures.
   
 
