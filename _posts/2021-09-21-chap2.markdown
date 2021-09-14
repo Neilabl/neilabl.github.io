@@ -64,8 +64,7 @@ Access the following resources and get familiarized with XML and XML schema by d
 - Upon finishing your assignment :
 - Name your working directory as **ToCode2**. 
 - Push the **toCode2** Folder content to your Github account.
-- Send me the repository URL using microsoft team (write it down in a .txt file) or send me a share repository invite to my e-mail : neila.benlakhal@gmail.com.
-- ⚠ *Use your real name as GitHub account*: recommended format : **firstNameLastName**.
+- Turn in your **toCode2** assignments using Microsoft teams.
 
 ## Preferred text editor:
   
