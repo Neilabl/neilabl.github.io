@@ -61,7 +61,7 @@ Upon finishing the challenges :
 
       - Group C students : [ServiceOrientedComputingC_2022](https://teams.microsoft.com/l/team/19%3aUAnaVx2kLy3YoSicmM98Bh9e4tIT9oI2IyVoFXj103k1%40thread.tacv2/conversations?groupId=161f7d7f-4fcc-4bfb-88ff-ab0a516fb70a&tenantId=dbd6664d-4eb9-46eb-99d8-5c43ba153c61).  You can use `05j7jie` code to join this team.
   
-    - Group D students : [ServiceOrientedComputingD_2022](https://teams.microsoft.com/l/team/19%3anY1iD7ZwEv87_8qXGLtxtwSdIhcLk5jKpdy4aco-V101%40thread.tacv2/conversations?groupId=7650d099-a158-44b1-a366-ca6059fafafd&tenantId=dbd6664d-4eb9-46eb-99d8-5c43ba153c61). ou can use `2tgfoj2` code to join this team. 
+      - Group D students : [ServiceOrientedComputingD_2022](https://teams.microsoft.com/l/team/19%3anY1iD7ZwEv87_8qXGLtxtwSdIhcLk5jKpdy4aco-V101%40thread.tacv2/conversations?groupId=7650d099-a158-44b1-a366-ca6059fafafd&tenantId=dbd6664d-4eb9-46eb-99d8-5c43ba153c61). You can use `2tgfoj2` code to join this team. 
 
   
 Important instructions : 
