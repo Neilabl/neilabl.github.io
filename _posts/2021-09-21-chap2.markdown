@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Chapter 2 added !"
-date:   2021-09-11 22:40:12 +0300
 ---
 
 The Web materials and resources of Chapter 2 are listed here.
