@@ -88,7 +88,7 @@ Every programming language has one or several APIs  to implement Web services th
 
 In order to test web services we will be using :
 
-* [SOAPUI the open source version](https://www.soapui.org/downloads/soapui/,  an API (SOAP/REST) testing tool.
+[SOAPUI the open source version](https://www.soapui.org/downloads/soapui/), an API (SOAP/REST) testing tool.
   
 ### After lecture : 
 
