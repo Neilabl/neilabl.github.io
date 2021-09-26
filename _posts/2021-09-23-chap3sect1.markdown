@@ -53,7 +53,7 @@ In order to test web services we will be using :
 
 💻 **ToCode** 
 
-Clone the following client on your machine : https://github.com/neilabenlakhal/webservice1.git
+Clone the following client on your machine : [https://github.com/neilabenlakhal/webservice1.git](https://github.com/neilabenlakhal/webservice1.git)
 
 - Install required softwares (SOAPUI, Web app server, NUSOAP).
 
