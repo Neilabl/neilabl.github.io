@@ -35,12 +35,12 @@ To go through the lifecycle of a web service, we will need several tools that yo
 
 *** Web service implementation ***
 
-In order to implement web services either in Bottom-up or top-down web services, you will need: 
+In order to implement web services either in Bottom-up or top-down web services, you will need : 
 
-* [AMPPS](https://ampps.com/downloads) is a MAMP, WAMP and LAMP software stack from Softaculous enabling Apache, Mysql, MongoDB, PHP, Perl, and Python. This includes everything you need for website development. Start developing your website from open source web applications or just start writing code yourself.
+* [AMPPS](https://ampps.com/downloads),[MAMP](https://www.mamp.info/en/windows/), [WAMP](https://www.wampserver.com/en/), [LAMP](https://bitnami.com/stack/lamp/installer), or [XAMPP](https://www.apachefriends.org/download.html) software stack enabling Apache, Mysql and PHP. This includes everything you need for implementing Web services.
   
 
-* PhP comes with a top-down enabling web services implementation API. But for implementing web services along the bottom-up approach, we will be using [NUSOAP](https://sourceforge.net/projects/nusoap/) : NuSOAP is a rewrite of SOAPx4, provided by NuSphere and Dietrich Ayala. It is a set of PHP classes - no PHP extensions required - that allow developers to create and consume web services based on SOAP 1.1, WSDL 1.1 and HTTP 1.0/1.1. Please download NUSOAP, unzip it and add it to your `www` folder in your installed AMPPS platform.
+* PhP comes with a top-down enabling web services implementation API. But for implementing web services along the bottom-up approach, we will be using [NUSOAP](https://sourceforge.net/projects/nusoap/) : NuSOAP is a rewrite of SOAPx4, provided by NuSphere and Dietrich Ayala. It is a set of PHP classes - no PHP extensions required - that allow developers to create and consume web services based on SOAP 1.1, WSDL 1.1 and HTTP 1.0/1.1. Please download NUSOAP, unzip it and add it to your `www`  or `htdocs` folder in your installed web development platform.
 
 *** Web service testing ***
 
@@ -55,13 +55,13 @@ In order to test web services we will be using :
 
 Clone the following client on your machine : https://github.com/neilabenlakhal/webservice1.git
 
-- Install required softwares (SOAPUI, AMPPS, NUSOAP).
+- Install required softwares (SOAPUI, Web app server, NUSOAP).
 
 - Test the code on your machine and make sure it is working properly.
 
 - Run `SOAPUI` test of several SOAP web services (see additional resources section).
 
-- Choose one SOAP web service and test it with `SOAPUI` then,  write a client to call it (write a PHP client using NUSOAP class).
+- Choose one SOAP web service and test it with `SOAPUI` then,  write a client to call it (write a PHP client using NUSOAP or SOAPserver class).
 
 - Push your Web service client codes and  print screens of your SOAPUI tests (successful tests + faulty tests) to your `GIT` repository named **ToCode3**. 
 

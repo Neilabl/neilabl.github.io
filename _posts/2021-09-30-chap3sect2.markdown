@@ -49,7 +49,7 @@ To run demo Web services  provided with this lecture, you need first to clone th
 
  Then, you need the following tools installed :  
 
-* [AMPPS](https://ampps.com/downloads) is a MAMP, WAMP and LAMP software stack from Softaculous enabling Apache, Mysql, MongoDB, PHP, Perl, and Python. This includes everything you need for website development. Start developing your website from open source web applications or just start writing code yourself.
+* [AMPPS](https://ampps.com/downloads),[MAMP](https://www.mamp.info/en/windows/), [WAMP](https://www.wampserver.com/en/), [LAMP](https://bitnami.com/stack/lamp/installer), or [XAMPP](https://www.apachefriends.org/download.html) software stack enabling Apache, Mysql and PHP. This includes everything you need for implementing Web services.
   
 * [NUSOAP](https://sourceforge.net/projects/nusoap/) and SOAP.dll: PhP comes with a Top-Down enabling Web services implementation API (Soap.dll). But for implementing Web services along the Bottom-Up approach, we will be using [NUSOAP](https://sourceforge.net/projects/nusoap/), a rewrite of SOAPx4, provided by NuSphere and Dietrich Ayala. It is a set of PHP classes - no PHP extensions required - that allow developers to create and consume Web services based on SOAP 1.1, WSDL 1.1 and HTTP 1.0/1.1. Please download NUSOAP, unzip it and add it to your `www` folder in your installed AMPPS platform.
 
@@ -88,7 +88,7 @@ Every programming language has one or several APIs  to implement Web services th
 
 In order to test web services we will be using :
 
-* [SOAPUI the open source version](https://www.soapui.org/downloads/soapui/),  an API (SOAP/REST) testing tool.
+* [SOAPUI the open source version](https://www.soapui.org/downloads/soapui/,  an API (SOAP/REST) testing tool.
   
 ### After lecture : 
 
@@ -138,7 +138,8 @@ Call `WS1` and `WS2` composition using a Web interface.
 - Store the source code of the composition in `WSC` with print screen of its execution interface with results. You may add an explanatory description of your composition with each web service methods, input and output parameters.
 
 - Push your  `ToCode3_2` to your `GIT` repository.  
-- Send the following on Microsoft Teams : Link of your git repository.  
+- Send the following on Microsoft Teams : Link of your git repository.
+- Make sure that your git repositories are private and only open to collaborators you have already added.
 
 ## Additional resources: 
 
