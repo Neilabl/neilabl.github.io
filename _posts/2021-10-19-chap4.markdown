@@ -97,32 +97,34 @@ Every programming language has one or several APIs  to implement RESTFUL Web ser
 The objective of this `ToCode4` section is to manipulate two (2) RESTFUL Web services : `RWS1` and `RWS2` : <br>
 
   - `RWS1`: is a RESTFUL Web service you have to implement yourself.
-  - `RWS2`: is a RESTFUL Web service you have to choose from internet; you can for instance try [Covid19 APIS](https://explore.postman.com/4DTEzqFagDUe7F), test it, then, write 2(two) clients against `RWS2` : `Client1` and `Client2`.
+  - `RWS2`: is a RESTFUL Web service you have to choose from internet; you can for instance try [Covid19 APIS](https://explore.postman.com/4DTEzqFagDUe7F), test it, then, write one client against `RWS2` : `Client1`.
 
 > Step 1
 
-Implement a RESTFUL web service -- we will call it `RWS1`.<br>
-
-   -  Write a  PHP web service using CURL library. Your web service should implement at least (2)two HTTP methods. Test your web service with POSTMAN or SOAPUI and generate a `WADL` file for it.
-   - Write a client in PHP to your Web service (one of the (2)two HTTP methods).  
-
-> Step 2
-
-Search for your `RWS2` : it should supports REST-based invocation.<br>
+Search for a `RWS2` : it should support REST-based invocation.<br>
 
 Testing :
   - TEST the web service with SOAPUI (choose a method with XML response) and generate WADL file.  
-  - TEST the web service with postman ((choose a method with JSON response) and capture HTTP traffic.
-  - Write `Client1` for a method with XML response : the one tested with SOAPUI. Use SimpleXML to parse XML.
+  - TEST the web service with postman (choose a method with JSON response) and capture HTTP traffic.
+  - Write `Client1` for a method with XML response : the one tested with SOAPUI. You can use SimpleXML to parse XML.
   - Write `Client2` for a method with JSON response : the one tested with POSTMAN.
 
-> Step 3 
+
+> Step 2
+
+Implement a RESTFUL Web service -- we will call it `RWS1`.<br>
+
+   -  Write a  PHP Web service using CURL library. Your web service should implement at least one  HTTP method. Test your web service with POSTMAN or SOAPUI and generate a `WADL` file for it.
+   - Write a client in PHP to your Web service.  
+
+
+> Step 3 (Bonus Step)
 
 Call `RWS1` and `RWS2` using a Web interface.
 
 > Step 4 (Bonus Step)
 
-Implement a RESTFUL web service  in Java or .NET and write a client for this web service in PHP.
+Implement a RESTFUL web service  in Java or .NET and write a client for this Web service in PHP.
 
 > What to submit ?
 
@@ -138,34 +140,10 @@ Implement a RESTFUL web service  in Java or .NET and write a client for this web
 
 ## Additional resources : 
 
-Several RESTFUL Web services web sites :
+Several RESTFUL Web services directories :
 
 - 🔗 [API directory](https://www.programmableweb.com/)
-- 🔗 [Collection of public APIs](https://explore.postman.com/templates)
-- 🔗 [Collection of public APIs](https://github.com/public-apis/public-apis)
-- 🔗 [Flickr API](https://www.flickr.com/services/api/)
-- 🔗 [List of weather related and financial web services](http://sofa.uqam.ca/soda/webservices.php)
-- 🔗 [Top 50 Most Popular APIs on RapidAPI (2020)](https://rapidapi.com/blog/most-popular-api/)
+- 🔗 [Collection of public APIs POSTMAN](https://www.postman.com/explore)
+- 🔗 [Collection of public APIs on Github](https://github.com/public-apis/public-apis)
+- 🔗 [Top 50 Most Popular APIs on RapidAPI (2020) on RapidAPI](https://rapidapi.com/blog/most-popular-api/)
 
-<!-- ## Chapter Videos :
-
-[Youtube video lecture Section 1: WHAT IS REST ?](https://www.youtube.com/embed/uYjxzYU3jS0)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uYjxzYU3jS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-[Youtube video lecture Section 2: HOW REST IS USING HTTP VERBS](https://youtu.be/GR1jr2AITT4)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GR1jr2AITT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-[Youtube video lecture Section 3: REST PRINCIPLES](https://youtu.be/19hlxaS9)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/19hlxaS9-j4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-[Youtube video lecture Section 4: IMPLEMENTING RESTFUL CLIENTS AND SERVICES](https://youtu.be/DbAwOmDiw8M)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DbAwOmDiw8M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- -->
