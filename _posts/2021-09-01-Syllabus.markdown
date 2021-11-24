@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Course syllabus was added !"
+title:  "Course syllabus"
 ---
 
   

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chapter 1 - Demystifying Software Architecture !"
+title:  "Chapter 1 - Demystifying Software Architecture"
 ---
 
 The Web materials and resources of Chapter 1 are listed here.

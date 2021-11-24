@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chapter 4 - RESTFUL architecture !"
+title:  "Chapter 4 - RESTFUL architecture"
 ---
 
 The Web materials and resources of Chapter 4 are listed here.
