@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Chapter 6 added !"
-date:   2021-11-22 10:40:12 +0300
+title:  "Chapter 6 - Docker: a Defacto Platform for Microservices Architecture !"
+date:   2022-11-22 10:40:12 +0300
 categories: Course update
 ---
 

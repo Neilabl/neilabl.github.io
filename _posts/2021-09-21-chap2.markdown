@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chapter 2 added !"
+title:  "Chapter 2 - Service-Oriented Architecture (SOA) !"
 ---
 
 The Web materials and resources of Chapter 2 are listed here.
