@@ -10,7 +10,7 @@ Sept, 2021-2022
 - [Service oriented computing : SOA/MSA](https://neilabl.github.io/).
   
 Feb, 2021-2022
-- [Technologies Web](https://github.com/neilabenlakhal/neilabenlakhal.github.io/tree/master/2020-2021Lecture/web/).
+- [Technologies Web](https://github.com/neilabenlakhal/neilabenlakhal.github.io/tree/master/2020-2021Lecture/Web).
 
 ## Previous Courses
 
